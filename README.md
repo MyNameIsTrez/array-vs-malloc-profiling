@@ -1,1 +1,1 @@
-# static-array-vs-malloc-profiling
+# Static array vs malloc() profiling
