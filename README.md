@@ -1,4 +1,4 @@
-# Static array vs malloc() profiling
+# Array vs malloc() profiling
 
 This repository has been created to support my blog post titled [Static arrays are the best vectors](https://mynameistrez.github.io/2024/04/09/static-arrays-are-the-best-vectors.html).
 
